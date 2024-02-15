@@ -36,7 +36,7 @@
 		</action>
 
 		<action name="TestAction"
-			class="com.diworksdev.webproj.action.InquiryCompleteAction"
+			class="com.diworksdev.webproj.action.TestAction"
 			method="execute">
 			<result name="success">test.jsp</result>
 		</action>
